@@ -1,7 +1,7 @@
-const host = "https://jrxy.jsjunqiao.com";
+const host = "";
 
 export default {
-  appId: "wxb8ca315e19421156",
+  appId: "",
   getOpenIdPath: `${host}/miniprogram/sns/jscode2session.do`,
   basePath: `${host}/miniprogram/`,
   imgPath: ""
