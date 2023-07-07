@@ -51,7 +51,7 @@
     "eslint": "^6.8.0",
     "eslint-config-taro": "^3.0.0-rc.6",
     "eslint-plugin-vue": "^6.x",
-    "stylelint": "9.3.0",
+    "stylelint": "15.10.1",
     "taro-axios": "^1.1.1",
     "vue-loader": "^15.9.2",
     "vuex-persistedstate": "^3.0.1"
